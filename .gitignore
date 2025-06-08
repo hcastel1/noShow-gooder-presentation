@@ -1,0 +1,3 @@
+# ignore source and intermediate files
+*.pptx
+*.pdf
